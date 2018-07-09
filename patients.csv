@@ -1,0 +1,3 @@
+id,name,cured,blood_type,room_id
+1,Ben,false,A,1
+2,George,false,B,2
